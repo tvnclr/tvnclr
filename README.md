@@ -12,6 +12,10 @@
   Kotlin · C++ · C# · Python · PowerShell · Android root · Windows
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-tancler-57b904260/">LinkedIn</a>
+</p>
+
 ---
 
 ## About
@@ -55,3 +59,9 @@ The repositories below are the ones with my own work in them. The rest of the li
 **Platforms:** Android (KernelSU, custom ROMs) · Windows  
 **Infrastructure:** MikroTik RouterOS · POS systems · Epson TM printers · card terminals  
 **Interests:** AI · Cloud (AWS) · Systems development
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-tancler-57b904260/">LinkedIn</a>
+</p>
