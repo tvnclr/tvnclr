@@ -36,6 +36,14 @@ Os repositórios abaixo são os que têm trabalho meu. O resto da lista são for
     <td><a href="https://github.com/tvnclr/OTPilot"><strong>OTPilot</strong></a><br/>Fork do OTP Helper que encontra códigos de verificação em SMS e notificações e copia para a área de transferência. Adiciona acesso via root às notificações de código que o Android 15+ esconde dos apps, reaplicado a cada boot, e uma extração por contexto para códigos longe da palavra-chave. Sem permissão de internet.<br/><sub>Kotlin · Android · KernelSU / Magisk</sub></td>
   </tr>
   <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/tvnclr/tvnclr/main/assets/slap-icon.png" width="40" alt="Slap" /></td>
+    <td><a href="https://github.com/tvnclr/Slap"><strong>Slap</strong></a><br/>Figurinhas de WhatsApp a partir de fotos, GIFs e vídeos: pacotes estáticos e animados, sem borda branca, sem conta e sem anúncio. Enquadramento por gesto e remoção de fundo por cor ou por IA no próprio aparelho.<br/><sub>Kotlin · Jetpack Compose · ML Kit · Android</sub></td>
+  </tr>
+  <tr>
+    <td align="center">🎨</td>
+    <td><a href="https://github.com/tvnclr/tvnclr-ui"><strong>tvnclr-ui</strong></a><br/>O design system compartilhado pelos meus apps Android: tokens, temas System/Light/Dark/AMOLED com 8 cores de destaque ou Material You, componentes e fundos animados.<br/><sub>Kotlin · Jetpack Compose</sub></td>
+  </tr>
+  <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/tvnclr/Second-Son-fork/second-son-dev/.github/shadps4.png" width="40" alt="shadPS4" /></td>
     <td><a href="https://github.com/tvnclr/Second-Son-fork"><strong>Second-Son-fork</strong></a><br/>Fork da build do shadPS4 do axylpup para o inFAMOUS Second Son. O índice de shaders passa a ler o update do jogo, o cache de shaders da release funciona com um EXE compilado por conta própria, o PGO pode treinar numa sessão de jogo inteira e um launcher de desktop cuida das configurações, da checagem de arquivos e do backup dos saves.<br/><sub>C++ · C# / WPF · PowerShell · Vulkan</sub></td>
   </tr>
@@ -56,7 +64,7 @@ Os repositórios abaixo são os que têm trabalho meu. O resto da lista são for
 </p>
 
 **Linguagens:** Kotlin · C++ · C# · Python · PowerShell  
-**Plataformas:** Android (KernelSU, ROMs customizadas) · Windows  
+**Plataformas:** Android (Jetpack Compose, KernelSU, ROMs customizadas) · Windows  
 **Infraestrutura:** MikroTik RouterOS · sistemas de PDV · impressoras Epson TM · maquininhas de cartão  
 **Interesses:** IA · Cloud (AWS) · Desenvolvimento de sistemas
 
