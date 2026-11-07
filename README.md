@@ -39,13 +39,13 @@ The repositories below are the ones with my own work in them. The rest of the li
     <td align="center"><img src="https://raw.githubusercontent.com/tvnclr/tvnclr/main/assets/slap-tile.png" width="40" alt="Slap" /></td>
     <td><a href="https://github.com/tvnclr/Slap"><strong>Slap</strong></a><br/>WhatsApp stickers from photos, GIFs and videos: static and animated packs, no white border, no account, no ads. Framing by gesture and background removal by flat color or on-device AI.<br/><sub>Kotlin · Jetpack Compose · ML Kit · Android</sub></td>
   </tr>
+    <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/tvnclr/Equicord-QuestList/main/questlist/branding/icon-512.png" width="40" alt="QuestList" /></td>
+    <td><a href="https://github.com/tvnclr/Equicord-QuestList"><strong>Equicord-QuestList</strong></a><br/>Fork of Equicord that ships the QuestList plugin: every Discord Quest in one list with search, using Discord's own buttons. Installs with one click, updates itself from the repository and comes with a repair tool.<br/><sub>TypeScript · C# / WPF · Windows</sub></td>
+  </tr>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/tvnclr/tvnclr/main/assets/tvnclr-ui-icon.png" width="40" alt="tvnclr-ui" /></td>
     <td><a href="https://github.com/tvnclr/tvnclr-ui"><strong>tvnclr-ui</strong></a><br/>The design system shared by my Android apps: tokens, System/Light/Dark/AMOLED themes with 8 accent colors or Material You, components and animated backgrounds.<br/><sub>Kotlin · Jetpack Compose</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/tvnclr/Equicord-QuestList/main/questlist/branding/icon-512.png" width="40" alt="QuestList" /></td>
-    <td><a href="https://github.com/tvnclr/Equicord-QuestList"><strong>Equicord-QuestList</strong></a><br/>Fork of Equicord that ships the QuestList plugin: every Discord Quest in one list with search, using Discord's own buttons. Installs with one click, updates itself from the repository and comes with a repair tool.<br/><sub>TypeScript · C# / WPF · Windows</sub></td>
   </tr>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/tvnclr/tvnclr/main/assets/second-son-icon.png" width="40" alt="Second-Son-fork" /></td>
